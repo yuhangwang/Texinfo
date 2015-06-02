@@ -5,7 +5,7 @@ This is an unofficial verbatim redistribution of the binary&source form of the  
 
 This redistribution is under the same license as the original.
 
-Please visit the official website for more details: https://www.tcl.tk
+Please visit the official website for more details: http://www.gnu.org/software/texinfo
 
 ## Download
 You can download the compiled binary files at the [release page](https://github.com/yuhangwang/Texinfo/releases).
